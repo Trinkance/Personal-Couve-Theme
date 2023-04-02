@@ -2064,6 +2064,7 @@
 :root .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .scroller-hE2gWq .wrapper-2RrXDg {
   background: var(--background-secondary);
   margin: 16px;
+  margin-bottom: -20px;
   border-radius: 10px;
   border: none;
 }
